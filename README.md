@@ -1,2 +1,5 @@
-# java.3d
-java 3d incon view 3d 
+openjdk-asmtools-jasm Hello.jasm -w .
+
+sudo dnf install openjdk-asmtools.noarch
+
+/usr/bin/openjdk-asmtools-jdis -w . Hello.class
